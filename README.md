@@ -6,13 +6,11 @@
 
 Projeto construído no evento Next Level Week da Rockseat.
 
-[clique aqui para acessar] (https://tcdanilo.github.io/nlw-esports-explorer)
+[clique aqui para acessar](https://tcdanilo.github.io/nlw-esports-explorer/)
 
 # Tecnologias
 
--HTML
--CSS
--GIT E GITHUB
+HTML, CSS , GIT E GITHUB
 
 # Contato
 
